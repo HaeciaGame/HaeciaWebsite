@@ -1,2 +1,1 @@
 Fix blog post title names.
-Add being able to click to index from other pages.
